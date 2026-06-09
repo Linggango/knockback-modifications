@@ -1,0 +1,18 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.misanthropy.linggango.knockback_modifications.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "knockback_modifications.refmap.json",
+  "mixins": [
+    "LivingEntityMixin"
+  ],
+  "client": [
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  },
+  "overwrites": {
+    "requireAnnotations": true
+  }
+}

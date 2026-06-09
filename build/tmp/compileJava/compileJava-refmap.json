@@ -1,0 +1,16 @@
+{
+  "mappings": {
+    "com/misanthropy/linggango/knockback_modifications/mixin/LivingEntityMixin": {
+      "knockback(DDD)V": "Lnet/minecraft/world/entity/LivingEntity;m_147240_(DDD)V",
+      "Lnet/minecraft/world/entity/LivingEntity;getAttributeValue(Lnet/minecraft/world/entity/ai/attributes/Attribute;)D": "Lnet/minecraft/world/entity/LivingEntity;m_21133_(Lnet/minecraft/world/entity/ai/attributes/Attribute;)D"
+    }
+  },
+  "data": {
+    "searge": {
+      "com/misanthropy/linggango/knockback_modifications/mixin/LivingEntityMixin": {
+        "knockback(DDD)V": "Lnet/minecraft/world/entity/LivingEntity;m_147240_(DDD)V",
+        "Lnet/minecraft/world/entity/LivingEntity;getAttributeValue(Lnet/minecraft/world/entity/ai/attributes/Attribute;)D": "Lnet/minecraft/world/entity/LivingEntity;m_21133_(Lnet/minecraft/world/entity/ai/attributes/Attribute;)D"
+      }
+    }
+  }
+}

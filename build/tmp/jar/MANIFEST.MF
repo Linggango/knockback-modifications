@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Specification-Title: knockback_modifications
+Specification-Vendor: 
+Specification-Version: 1
+Implementation-Title: knockback-modifications
+Implementation-Version: 1.0
+Implementation-Vendor: 
+Implementation-Timestamp: 2026-06-02T22:09:52+0300
+MixinConfigs: knockback_modifications.mixins.json
+
